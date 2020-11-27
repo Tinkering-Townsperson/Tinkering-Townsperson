@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### ![Alt](https://github.githubassets.com/images/mona-whisper.gif)
 
 <!--
 **Tinkering-Townsperson/Tinkering-Townsperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

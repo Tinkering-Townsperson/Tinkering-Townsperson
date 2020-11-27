@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### ![Alt](https://github.githubassets.com/images/mona-whisper.gif)
+#### ![Alt](https://github.githubassets.com/images/mona-whisper.gif)You found a secret! Tinkering-Townsperson/Tinkering-Townsperson is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
 <!--
 **Tinkering-Townsperson/Tinkering-Townsperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

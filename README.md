@@ -29,7 +29,7 @@ Fork on GitHub
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinkering-townsperson" alt="tinkering-townsperson" /></a> </p>
 
-- 🔭 I’m currently working on [LapisLazuli](https://github.com/Tinkering-Townsperson/Lapis-project)
+<!-- - 🔭 I’m currently working on [LapisLazuli](https://github.com/Tinkering-Townsperson/Lapis-project) -->
 
 - 🌱 I’m currently learning **Python**
 
@@ -47,4 +47,4 @@ Fork on GitHub
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinkering-townsperson&show_icons=true&locale=en" alt="tinkering-townsperson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinkering-townsperson&" alt="tinkering-townsperson" /></p>O
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinkering-townsperson&" alt="tinkering-townsperson" /></p>

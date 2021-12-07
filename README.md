@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
 4222
 Fork on GitHub
-786
+786-->
 
 <h1 align="center">Hi 👋, I'm a Tinkering-Townsperson</h1>
 <h3 align="center">A passionate web developer from Canada</h3>

@@ -1,3 +1,5 @@
+![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
+
 <h1 align="center">Hi 👋, I'm AfterNoonPM</h1>
 <h3 align="center">A determined web developer from Canada</h3>
 

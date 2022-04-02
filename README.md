@@ -1,5 +1,4 @@
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
 <h1 align="center">Hi 👋, I'm AfterNoonPM</h1>
@@ -7,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkering-townsperson&label=Profile%20views&color=0e75b6&style=flat" alt="tinkering-townsperson" /> </p>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinkering-townsperson" alt="tinkering-townsperson" /></a> </p>
 
 - 🔭 I’m currently working on the [TinkerTown App Store](https://github.com/Tinkering-Townsperson/TTAppStore)
 
-- 🌱 I’m currently learning **Python, PHP**
+- 🌱 I’m currently learning **C/C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tinkering-Townsperson](https://github.com/Tinkering-Townsperson)
 

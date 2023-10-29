@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [woodchopper](https://github.com/TinkerTown-SEMI/woodchopper)
 
+- 🌱 I’m currently learning **Android App Development with Kotlin**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Tinkering-Townsperson](https://github.com/Tinkering-Townsperson)
 
 - 💬 Ask me about **Raspberry Pis/Physical Computing**

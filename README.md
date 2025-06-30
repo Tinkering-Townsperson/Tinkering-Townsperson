@@ -75,6 +75,9 @@
 	<a href="https://raspberrypi.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" />
 	</a>
+	<a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="40" height="40" />
+	</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2759&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="tinkering-townsperson" /></p>

@@ -7,18 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinkering-townsperson" alt="tinkering-townsperson" /></a> </p>
 
-- 🔭 I’m currently working on [woodchopper](https://github.com/TinkerTown-SEMI/woodchopper)
+<!-- - 🔭 I’m currently working on [woodchopper](https://github.com/TinkerTown-SEMI/woodchopper) -->
 
-- 🌱 I’m currently learning **Android App Development with Kotlin**
+- 🌱 I’m currently learning **PCB Design with KiCad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tinkering-Townsperson](https://github.com/Tinkering-Townsperson)
 
-- 💬 Ask me about **Raspberry Pis/Physical Computing**
+- 🕹️ My most recent project was [SpaceGoose](https://fraserhackclub.itch.io/spacegoose/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19209983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19209983" height="30" width="40" /></a>
-</p>
+<!-- - 💬 Ask me about **Raspberry Pis/Physical Computing**-->
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Toolchain</h4>
@@ -72,9 +69,15 @@
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 	</a>
+	<a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/KiCad/kicad.github.io/refs/heads/master/assets/img/kicad_icon.png" alt="kicad" width="40" height="40"/>
+	</a>
+	<a href="https://raspberrypi.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" />
+	</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinkering-townsperson&show_icons=true&theme=dark&locale=en&layout=compact" alt="tinkering-townsperson" /></p>
+<p><img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2759&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="tinkering-townsperson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinkering-townsperson&show_icons=true&theme=dark&locale=en" alt="tinkering-townsperson" /></p>
 

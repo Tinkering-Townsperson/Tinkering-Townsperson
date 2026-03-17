@@ -80,7 +80,7 @@
 	</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2759&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="tinkering-townsperson" /></p>
+<p><a href="https://hackati.me/Paya"><img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2759&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="tinkering-townsperson" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinkering-townsperson&show_icons=true&theme=dark&locale=en" alt="tinkering-townsperson" /></p>
 
